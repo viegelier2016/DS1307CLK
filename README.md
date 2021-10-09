@@ -3,6 +3,7 @@ Arduino Library for the DS1307+ Real Time Clock (RTC).Makes NO use of Arduino's 
 Also contains functions to get Linux Epoch  derived from Date and Time on the DS1307.
 
 Functions:
+
     // starts Wire (I2C) and sets the required time-zone (hours plus or minus UTC)
     void begin(int tmeZne);
 
