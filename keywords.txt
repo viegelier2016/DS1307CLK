@@ -1,0 +1,9 @@
+ds1307CLK   KEYWORD1
+begin   KEYWORD2
+milliBreak  KEYWORD2
+setDateTime KEYWORD2
+getDateTime KEYWORD2
+printDateTime   KEYWORD2
+epoch2Date  KEYWORD2
+getEpoch    KEYWORD2
+ds1307Now   KEYWORD2
